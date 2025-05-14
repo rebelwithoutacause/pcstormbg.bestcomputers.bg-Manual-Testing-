@@ -22,7 +22,8 @@ Impact:
 •	Potential loss of trust or business
 •	Possible revenue loss or legal implications
 •	May indicate a backend logic flaw or intentional misconfiguration
-  Screenshots:
+
+Screenshots:
  
 ![PriceInBGN](https://github.com/user-attachments/assets/50b1caf8-6812-4616-8564-7b600800e336)
 
