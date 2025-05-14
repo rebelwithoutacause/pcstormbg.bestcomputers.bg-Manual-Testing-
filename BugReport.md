@@ -22,10 +22,15 @@ Actual Result:
 Price in EUR is shown as nearly 3,000 EUR, which is over 4x higher than the correct value.
 
 Impact:
+
 •	Severity: High
+
 •	Misleads customers and distorts actual product value
+
 •	Potential loss of trust or business
+
 •	Possible revenue loss or legal implications
+
 •	May indicate a backend logic flaw or intentional misconfiguration
 
 Screenshots:
