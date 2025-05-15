@@ -5,12 +5,14 @@
 1.Bug Title: Incorrect Currency Conversion – Price in EUR Doesn’t Match BGN Value
 
 Environment:
+
 •	Website: [https://pcstormbg.bestcomputers.bg/]
 •	Device: [PC]
 •	Browser: [Brave]
 •	OS: [Windows 10]
 
 Steps to Reproduce:
+
 1.	Navigate to the product/service page.
 2.	Click on the option to change the currency from BGN to EUR.
 3.	Observe the displayed price.
